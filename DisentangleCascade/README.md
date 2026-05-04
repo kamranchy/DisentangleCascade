@@ -1,7 +1,6 @@
 # DisentangleCascade
 
-**Disentangled Representation Learning with Uncertainty-Driven ROI Zoom for Skin Lesion Classification**  
-ACM-BCB 2026
+**Disentangled Representation Learning with Uncertainty-Driven ROI Zoom for Skin Lesion Classification** 
 
 ---
 
@@ -69,16 +68,6 @@ python main.py
 
 | Method | Macro F1 | Accuracy | Macro Recall | Macro Precision |
 |---|---|---|---|---|
-| DisentangleCascade (ours) | 0.8401 | 88.53% | 0.8192 | 0.8641 |
+| DisentangleCascade (ours) | 0.8220 | 88.53% | 0.8094 | 0.8351 |
 
 ---
-
-## Citation
-
-```bibtex
-@inproceedings{disentanglecascade2026,
-  title     = {DisentangleCascade: Disentangled Representation Learning with Uncertainty-Driven ROI Zoom for Skin Lesion Classification},
-  booktitle = {Proceedings of the 17th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB '26)},
-  year      = {2026}
-}
-```
